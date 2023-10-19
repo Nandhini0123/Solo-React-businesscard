@@ -1,0 +1,39 @@
+
+body{
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.main-container{
+  border:2px solid rgb(191, 182, 182);
+  margin: 20px 450px;
+  padding: 0;
+  width: 324px;
+}
+
+
+.profile-pic{
+  width: 320px;
+  height: 30vw;
+  padding:0;
+  margin:0;
+}
+.myname{
+  font-size: 2.5rem;
+}
+.job-title{
+  font-size: 1.85rem;
+  color: rgb(226, 172, 106);
+}
+.footer-box{
+ width: 100%;
+ background-color: black;
+ display: flex;
+ justify-content: space-around;
+ padding: 1.5em 0em;
+ color:#888;
+}
+
+
+
